@@ -9,6 +9,6 @@
 <br>
 
 
-![SEUNGHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOSEUNGHYUN&theme=vue-dark&show_icons=true)
+![SEUNGHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOSEUNGHYUN&theme=radical&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOOSEUNGHYUN&layout=compact&theme=vue-dark)](https://github.com/YOOSEUNGHYUN/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOOSEUNGHYUN&layout=compact&theme=radical)](https://github.com/YOOSEUNGHYUN/github-readme-stats)
