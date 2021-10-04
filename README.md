@@ -1,7 +1,7 @@
 <div id="main" align="center">
   <br>
     <img 
-        src="https://github-readme-stats.vercel.app/api?username=jungyeob102&hide=stars,contribs&count_private=true&show_icons=true"
+        src="https://github-readme-stats.vercel.app/api?username=YOOSEUNGHYUN&hide=stars,contribs&count_private=true&show_icons=true"
         style="height: auto; margin-left: 20px; margin-right: 20px; padding: 10px;"/>
 </div>
 
