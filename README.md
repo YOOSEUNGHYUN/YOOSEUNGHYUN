@@ -8,7 +8,7 @@
 <br>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOOSEUNGHYUN&layout=compact&theme=radical)
-[SEUNGHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOSEUNGHYUN&theme=radical&show_icons=true)
+![SEUNGHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOSEUNGHYUN&theme=radical&show_icons=true)
 
 
 
