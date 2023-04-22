@@ -7,10 +7,10 @@
     <img src="https://img.shields.io/badge/Unreal Engine-313131?style=flat-square&logo=Unrealengine&logoColor=white"/>
 
 <br>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOOSEUNGHYUN&layout=compact&theme=radical)](https://github.com/YOOSEUNGHYUN/github-readme-stats)
 
 ![SEUNGHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOOSEUNGHYUN&theme=radical&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOOSEUNGHYUN&layout=compact&theme=radical)](https://github.com/YOOSEUNGHYUN/github-readme-stats)
+
 
   <img src="https://ghchart.rshah.org/6e5494/YOOSEUNGHYUN" />
